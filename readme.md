@@ -68,13 +68,13 @@ Download hotswap-agent.jar and put in a simple path, for exemple : `C:\java\hots
 
 ![](./hotswap.png)
 
-### **Change Complie Build shortcut to *CTRL+S***
+### **Change Compile Build shortcut to *CTRL+S***
 
     File > Settings > Keymap > Main Menu > Build
 
 ![](./keymap.png)
 
-### **Tomcat hotswap configuration**
+### **Tomcat Hotswap configuration**
 
 Add to VM options : `-XXaltjvm=dcevm -javaagent:c:\java\hotswap-agent.jar`
 
