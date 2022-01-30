@@ -81,8 +81,9 @@ Add to VM options : `-XXaltjvm=dcevm -javaagent:c:\java\hotswap-agent.jar`
 > To disable a hotsawp plugin (Exemple : Hibernate) : <br/>
 `-XXaltjvm=dcevm -javaagent:c:\java\hotswap-agentjar=disablePlugin=Hibernate`
 
+<br>
 
-![](./tomcat-hotswap.png)
+![test](./tomcat-hotswap.PNG)
 
 
 ### **Launch application with debug mode** (CTRL+S to hot-deploy)
