@@ -17,6 +17,10 @@
 
 # Smart Tomcat configuration
 
+    Run > Edit Configurations...
+
+![](./add-config.PNG)
+
 ![](./tomcat-config.PNG)
 
 ## Tomcat download links
