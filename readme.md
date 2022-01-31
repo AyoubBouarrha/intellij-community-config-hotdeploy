@@ -54,7 +54,7 @@
 
 1) Run CMD as administrator
 2) Launch `java -jar java -jar DCEVM-installer.jar`
-3) Chose the compatible JDK with you installer and click on **"Install DCEVM as altjvm"**
+3) Chose the compatible JDK with your installer and click on **"Install DCEVM as altjvm"**
 
 ![](./dcevm.PNG)
 
