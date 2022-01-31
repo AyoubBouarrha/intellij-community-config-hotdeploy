@@ -66,13 +66,13 @@ Download hotswap-agent.jar and put in a simple path, for exemple : `C:\java\hots
 
     File > Settings > Build, Execution, Deployment > HotSwap
 
-![](./hotswap.png)
+![](./hotswap.PNG)
 
 ### **Change Compile Build shortcut to *CTRL+S***
 
     File > Settings > Keymap > Main Menu > Build
 
-![](./keymap.png)
+![](./keymap.PNG)
 
 ### **Tomcat Hotswap configuration**
 
