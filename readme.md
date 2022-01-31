@@ -19,7 +19,7 @@
 
     Run > Edit Configurations...
 
-![](./add-config.PNG)
+![test](./add-config.png)
 
 ![](./tomcat-config.PNG)
 
